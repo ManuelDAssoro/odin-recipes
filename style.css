@@ -8,6 +8,7 @@
 
 .muestrario{
     display: flex;
+    align-self:center;
 }
 .muestra{
     display: block;
@@ -15,7 +16,7 @@
     weight: auto;
     margin: 30px;
     border: 10px solid rgb(37, 37, 37);
-    align-self: center;
+    
     
 
 }
