@@ -3,7 +3,17 @@
   }
 
 .container{
+    border: 5px solid rgb(37, 37, 37);
     display: flex;
+    padding: 15px;
+    margin: 10px;
+}
+.container div{
+    border: 25px solid transparent;
+}
+.container li {
+    text-justify: inter-word;
+    text-align:justify;
 }
 
 .muestrario{
