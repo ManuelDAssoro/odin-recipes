@@ -1,0 +1,14 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.recipe {
+    color:olive;
+   
+}
+.link {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    background-color: antiquewhite;
+}
