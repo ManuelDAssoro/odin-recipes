@@ -12,3 +12,8 @@ h1 {
     color: black;
     background-color: antiquewhite;
 }
+
+img {
+    height: 360px;
+    weight: auto;
+}
