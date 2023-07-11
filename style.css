@@ -1,11 +1,24 @@
 * {
-    
+
   }
 
 .container{
     display: flex;
 }
 
+.muestrario{
+    display: flex;
+}
+.muestra{
+    display: block;
+    height: 250px;
+    weight: auto;
+    margin: 30px;
+    border: 10px solid rgb(37, 37, 37);
+    align-self: center;
+    
+
+}
 h1 {
     color: white;
     background-color: black;
@@ -15,10 +28,15 @@ h1 {
     color:olive;
    
 }
+.nombre {
+    display: block;
+    text-align: center;
+    margin: 0px;
+}
 .link {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: black;
-    background-color: antiquewhite;
+    color: white;
+    
 }
 
 img {
