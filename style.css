@@ -19,6 +19,7 @@
 .muestrario{
     display: flex;
     align-self:center;
+    text-align: center;
 }
 .muestra{
     display: block;
@@ -41,7 +42,7 @@ h1 {
 }
 .nombre {
     display: block;
-    text-align: center;
+    
     margin: 0px;
 }
 .link {
