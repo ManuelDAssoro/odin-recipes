@@ -17,7 +17,7 @@
 }
 .recetas{
     display:flex;
-    
+    justify-content: center;
 }
 .muestrario{
     flex-direction:column;
@@ -33,7 +33,7 @@ div h2{
 }
 .muestra{
     display: block;
-    height: 250px;
+    height: 165px;
     weight: auto;
     margin: 30px;
     border: 10px solid rgb(37, 37, 37);
