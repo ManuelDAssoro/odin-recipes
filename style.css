@@ -1,12 +1,24 @@
 * {
     background-color: grey;
   }
-
+.pasos{
+    border: 5px solid rgb(37, 37, 37);
+    display: flex;
+    flex-wrap: wrap;  
+    flex-direction: column;
+    margin: 10px;
+    padding: 15px;
+    
+    
+}
 .container{
+    flex-direction: row;
     border: 5px solid rgb(37, 37, 37);
     display: flex;
     padding: 15px;
     margin: 10px;
+    text-align: center;
+    justify-content: space-between;
 }
 .container div{
     border: 25px solid transparent;
@@ -28,8 +40,9 @@
     text-align: center;
 }
 div h2{
-    
-    color:rgb(13, 77, 141);
+    text-align: center;
+    color:rgb(3, 29, 56);
+    text-decoration: underline;
 }
 .muestra{
     display: block;
