@@ -15,16 +15,21 @@
     text-justify: inter-word;
     text-align:justify;
 }
-
+.recetas{
+    display:flex;
+    
+}
 .muestrario{
+    flex-direction:column;
     border: 2px solid rgb(37, 37, 37);
-    justify-content: center;
+    
     display: flex;
-    align-self:center;
+    
     text-align: center;
 }
 div h2{
-    color:blue
+    
+    color:rgb(13, 77, 141);
 }
 .muestra{
     display: block;
